@@ -18,7 +18,7 @@ Simply Note ermöglicht unerreicht schnell neutrale, vollständige und digitale 
 
 Sie wollen...
 - schnelle, vollständige und neutrale Gesprächsdokumentationen?
-- Ihre Telefonarbeitern vom aufwändigen Protokollschreiben entlasten? 
+- Ihre Telefonarbeiter vom aufwändigen Protokollschreiben entlasten? 
 - Transparenz in Ihre Beratung und Auskünften als ersten Schritt zur deren Optimierung bringen?
 - Ihre digitalen Unternehmens- bzw. eGovernment Ziele erreichen?
 
