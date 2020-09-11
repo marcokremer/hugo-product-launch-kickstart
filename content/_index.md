@@ -2,12 +2,12 @@
 header_brand: "Simply Note"
 header_tagline_paragraph: "Gesprächsprotokolle auf Knopfdruck - einfach, schnell und sicher. Made in Germany. <br> Wir machen aus digitalen Telefonaten und Videokonferenzen vollautomatisiert Transkriptionen - plattformunabhängig und einzigartig in Deutschland, Österreich und der Schweiz."
 header_button_cta:
-  url: "#Kontaktformular"
+  url: "#kontaktformular"
   title: "Kontaktaufnahme"
 header_button_more:
-  url: "#Die-Zukunft-der-Gesprächsprotokolle"
+  url: "#die-Zukunft-der-Gesprächsprotokolle"
   title: "Gesprächsprotokolle digital"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+# teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
 # Die Zukunft der Gesprächsprotokolle
@@ -25,11 +25,11 @@ Sie wollen...
 Dann freuen wir uns auf Ihre Kontaktaufnahme - wir zeigen Ihnen gerne unseren Prototypen!
 
 # Kontaktformular
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
+{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Adresse" placeholder_message="Nachricht" button_label="Abschicken ✉️">}}
 
 ---
 
-# Prototype
+# Prototyp
 
 So funktioniert Simply Note:
 ![How it works](images/prototype_1.jpg)
@@ -47,7 +47,7 @@ Wie finden Sie es? Wollen Sie den Prototypen live sehen? [Kontaktieren](#contact
 
 ---
 
-# Impressung und Datenschutz
+# Impressum und Datenschutz
 
 Das sind unsere Kontaktinformationen:
 
@@ -66,7 +66,7 @@ Wir nehmen den Datenschutz sehr ernst und stellen daher sicher, dass wir nichts 
 
 # Newsletter
 
-Let's stay in touch. Melden Sie sich hier an für unseren Newsletter. Keine Sorge, wir sind keine Werbefachleute und quälen Sie mit langweiligen Details. Wir melden uns nur wenn es wirklich spannende Updates und neue Features zu Simply Note gibt - versprochen!
+Bleiben wir in Kontakt. Melden Sie sich hier an für unseren Newsletter. Keine Sorge, wir sind keine Werbefachleute oder quälen Sie mit langweiligen Details. Wir melden uns nur wenn es wirklich spannende Updates und neue Features zu Simply Note gibt - versprochen!
 
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
+{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Ihre Emailadresse" button_label="Registrieren">}}
 
