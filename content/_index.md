@@ -1,6 +1,6 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building.<br>Bright times lie ahead. Let's get into it!"
+header_brand: "Simply Note"
+header_tagline_paragraph: "Gesprächsprotokolle auf Knopfdruck - einfach, schnell und sicher. Made in Germany.<br>Wir machen aus digitalen Telefonaten und Videokonferenzen vollautomatisiert Transkriptionen - plattformunabhängig und einzigartig für den DACH-Markt."
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
@@ -12,44 +12,60 @@ teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20test
 
 # The Future - Today!
 
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
+Simply Note ermöglicht unerreicht schnell neutrale, vollständige und digitale Textprotokolle, die für die beliebige Weiterverarbeitung verwendbar sind, als Nachweis von Beratungen und Abstimmungen dienen oder einfach in die alltägliche Aufgabenbearbeitung integriert werden können. <br> <br>**Unser [Prototyp](#prototype) für Zoom läuft!** <br> Treten Sie mit uns in [Kontakt](#contact-form) und wir zeigen Ihnen, wie Simply Note den Arbeitsalltag von Ihnen und Ihren Mitarbeitern verbessert.
 
 ---
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
+Sie wollen
+- schnelle, vollständige und neutrale Gesprächsdokumentationen?
+- Ihre Telefonarbeitern vom aufwändigen Protokollschreiben entlasten? 
+- Transparenz in Ihre Beratung und Auskünften als ersten Schritt zur deren Optimierung bringen?
+- Ihre digitalen /eGovernment Ziele erreichen?
 
+Dann freuen wir uns auf Ihre Kontaktaufnahme! Wir zeigen Ihnen gerne unseren Prototypen.
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
 ---
 
 # Prototype
 
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
+So funktioniert Simply Note:
 
-![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
+![How it works](images/prototype_1.jpg)
 
-Check out this sweet preview. Impressed much, are you?
+- Automatisierte Transkription von deutschsprachigen VoIP – Telefonaten
+- Unabhängig von VoIP – Software & Telefonanbieter
+- DSGVO konform durch Service auf DE/EU Servern
+- Einsatz von State-of-the-Art Transkriptionstechnologie 
+- Überschneidende Dialoge („Durcheinanderreden“) werden robust transkribiert 
+
+Und hier ein Blick auf den Prototypen für Zoom in Aktion:
+![How it looks like](images/prototype_2.jpg)
+
+Wie finden Sie es? Wollen Sie den Prototypen live sehen? [Kontaktieren](#contact-form) Sie uns!
 
 ---
 
 # Imprint & Privacy Policy
 
-Let's keep it simple. This is our contact information:
+Das sind unsere Kontaktinformationen:
 
-Jane Doe
-1093 Simpson Square
-May 73851, OK
-USA
+Simply Note
+c/o Jäkel Projektgesellschaft mbH
+James-von-Moltke-Straße 46
+02826 Görlitz
 
-E-mail: jane@doe.net
-Phone: 580-689-0577
 
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
+E-mail: getintouch@simply-note.de
+
+
+Wir nehmen den Datenschutz sehr ernst und stellen daher sicher, dass wir nichts speichern, was wir nicht benötigen. Wir haben keinen Tracking-Service, keine Cookies oder ähnliches. Wenn Sie sich für die Verwendung des Kontaktformulars oder der Newsletter-Anmeldung entscheiden, werden diese Informationen auf Netlify gespeichert, einem Dienst, den wir zum Hosten dieser Website verwenden. Sie können sich jederzeit an uns wenden, um Ihre Daten entfernen zu lassen oder einfach Informationen darüber abzurufen, welche Informationen wir gespeichert haben.
 
 ---
 
 # Stay in touch
 
-Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
+Let's stay in touch. Melden Sie sich hier an für unseren Newsletter. Keine Sorge, wir sind keine Werbefachleute und quälen Sie mit langweiligen Details. Wir melden uns nur wenn es wirklich spannende Updates und neue Features zu Simply Note gibt - versprochen!
 
 {{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
+
