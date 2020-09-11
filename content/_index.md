@@ -19,7 +19,7 @@ Simply Note ermöglicht unerreicht schnell neutrale, vollständige und digitale 
 Sie wollen...
 - schnelle, vollständige und neutrale Gesprächsdokumentationen?
 - Ihre Telefonarbeiter vom aufwändigen Protokollschreiben entlasten? 
-- Transparenz in Ihre Beratung und Auskünften als ersten Schritt zur deren Optimierung bringen?
+- Transparenz in Ihre Beratung und Auskünfte bringen, als ersten Schritt zur deren Optimierung?
 - Ihre digitalen Unternehmens- bzw. eGovernment Ziele erreichen?
 
 Dann freuen wir uns auf Ihre Kontaktaufnahme - wir zeigen Ihnen gerne unseren Prototypen!
@@ -43,7 +43,7 @@ So funktioniert Simply Note:
 Und hier ein Blick auf den Prototypen für Zoom in Aktion:
 ![How it looks like](images/prototype_2.jpg)
 
-Wie finden Sie es? Wollen Sie den Prototypen live sehen? [Kontaktieren](#contact-form) Sie uns!
+Wollen Sie den Prototypen live sehen? [Kontaktieren](#contact-form) Sie uns!
 
 ---
 
