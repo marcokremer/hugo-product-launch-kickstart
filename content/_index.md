@@ -5,7 +5,7 @@ header_button_cta:
   url: "#kontaktformular"
   title: "Kontaktaufnahme"
 header_button_more:
-  url: "#die-Zukunft-der-Gesprächsprotokolle"
+  url: "#die-zukunft-der-gesprächsprotokolle"
   title: "Gesprächsprotokolle digital"
 # teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
