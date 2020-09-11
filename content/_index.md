@@ -1,28 +1,30 @@
 ---
 header_brand: "Simply Note"
-header_tagline_paragraph: "Gesprächsprotokolle auf Knopfdruck - einfach, schnell und sicher. Made in Germany.<br>Wir machen aus digitalen Telefonaten und Videokonferenzen vollautomatisiert Transkriptionen - plattformunabhängig und einzigartig für den DACH-Markt."
+header_tagline_paragraph: "Gesprächsprotokolle auf Knopfdruck - einfach, schnell und sicher. Made in Germany. <br> Wir machen aus digitalen Telefonaten und Videokonferenzen vollautomatisiert Transkriptionen - plattformunabhängig und einzigartig in Deutschland, Österreich und der Schweiz."
 header_button_cta:
-  url: "#contact-form"
-  title: "Get in touch"
+  url: "#Kontaktformular"
+  title: "Kontaktaufnahme"
 header_button_more:
-  url: "#the-future---today"
-  title: "Why this is awesome?"
+  url: "#Die-Zukunft-der-Gesprächsprotokolle"
+  title: "Gesprächsprotokolle digital"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
-# The Future - Today!
+# Die Zukunft der Gesprächsprotokolle
 
-Simply Note ermöglicht unerreicht schnell neutrale, vollständige und digitale Textprotokolle, die für die beliebige Weiterverarbeitung verwendbar sind, als Nachweis von Beratungen und Abstimmungen dienen oder einfach in die alltägliche Aufgabenbearbeitung integriert werden können. <br> <br>**Unser [Prototyp](#prototype) für Zoom läuft!** <br> Treten Sie mit uns in [Kontakt](#contact-form) und wir zeigen Ihnen, wie Simply Note den Arbeitsalltag von Ihnen und Ihren Mitarbeitern verbessert.
+Simply Note ermöglicht unerreicht schnell neutrale, vollständige und digitale Textprotokolle, die für die beliebige Weiterverarbeitung verwendbar sind, als Nachweis von Beratungen und Abstimmungen dienen oder einfach in die alltägliche Aufgabenbearbeitung integriert werden können. <br> <br>**Unser [Prototyp](#prototype) für Zoom läuft!** <br> <br> Treten Sie mit uns in [Kontakt](#contact-form) und wir zeigen Ihnen, wie Simply Note den Arbeitsalltag von Ihnen und Ihren Mitarbeitern verbessert.
 
 ---
 
-Sie wollen
+Sie wollen...
 - schnelle, vollständige und neutrale Gesprächsdokumentationen?
 - Ihre Telefonarbeitern vom aufwändigen Protokollschreiben entlasten? 
 - Transparenz in Ihre Beratung und Auskünften als ersten Schritt zur deren Optimierung bringen?
-- Ihre digitalen /eGovernment Ziele erreichen?
+- Ihre digitalen Unternehmens- bzw. eGovernment Ziele erreichen?
 
-Dann freuen wir uns auf Ihre Kontaktaufnahme! Wir zeigen Ihnen gerne unseren Prototypen.
+Dann freuen wir uns auf Ihre Kontaktaufnahme - wir zeigen Ihnen gerne unseren Prototypen!
+
+# Kontaktformular
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
 ---
@@ -30,7 +32,6 @@ Dann freuen wir uns auf Ihre Kontaktaufnahme! Wir zeigen Ihnen gerne unseren Pro
 # Prototype
 
 So funktioniert Simply Note:
-
 ![How it works](images/prototype_1.jpg)
 
 - Automatisierte Transkription von deutschsprachigen VoIP – Telefonaten
@@ -46,7 +47,7 @@ Wie finden Sie es? Wollen Sie den Prototypen live sehen? [Kontaktieren](#contact
 
 ---
 
-# Imprint & Privacy Policy
+# Impressung und Datenschutz
 
 Das sind unsere Kontaktinformationen:
 
@@ -63,7 +64,7 @@ Wir nehmen den Datenschutz sehr ernst und stellen daher sicher, dass wir nichts 
 
 ---
 
-# Stay in touch
+# Newsletter
 
 Let's stay in touch. Melden Sie sich hier an für unseren Newsletter. Keine Sorge, wir sind keine Werbefachleute und quälen Sie mit langweiligen Details. Wir melden uns nur wenn es wirklich spannende Updates und neue Features zu Simply Note gibt - versprochen!
 
