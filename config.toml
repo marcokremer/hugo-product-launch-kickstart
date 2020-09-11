@@ -38,7 +38,7 @@ title = "Simply Note"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Simly Note"
+    title = "Simply Note"
 
     # LICENSE: Hugo Product Launch by Jan Raasch is licensed
     # under Attribution 4.0 International (CC BY 4.0).
