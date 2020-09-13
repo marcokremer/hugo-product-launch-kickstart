@@ -25,7 +25,7 @@ Sie wollen...
 Dann freuen wir uns auf Ihre Kontaktaufnahme - wir zeigen Ihnen gerne unseren Prototypen!
 
 # Kontaktformular
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Adresse" placeholder_message="Nachricht" button_label="Abschicken ✉️">}}
+{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Adresse" placeholder_message="Nachricht" action="/success/contact/" button_label="Abschicken ✉️">}}
 
 ---
 
@@ -68,5 +68,4 @@ Wir nehmen den Datenschutz sehr ernst und stellen daher sicher, dass wir nichts 
 
 Bleiben wir in Kontakt. Melden Sie sich hier an für unseren Newsletter. Keine Sorge, wir sind keine Werbefachleute oder quälen Sie mit langweiligen Details. Wir melden uns nur wenn es wirklich spannende Updates und neue Features zu Simply Note gibt - versprochen!
 
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Ihre Emailadresse" button_label="Registrieren">}}
-
+{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Ihre Emailadresse" button_label="Registrieren" action="/success/newsletter/">}}
