@@ -15,3 +15,44 @@ command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+# Redirects and headers are GLOBAL for all builds – they do not get scoped to
+# contexts no matter where you define them in the file.
+# For context-specific rules, use _headers or _redirects files, which are
+# PER-DEPLOY.
+
+[[redirects]]
+  from = "http://simply-note.netlify.app/*"
+  to = "https://www.simply-note.de/:splat"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "https://simply-note.netlify.app/*"
+  to = "https://www.simply-note.de/:splat"
+  force = true
+  status = 301
+
+[[redirects]]
+  from="http://www.simply-note.com/*"
+  to="https://www.simply-note.de/:splat"
+  force = true
+  status = 301
+
+[[redirects]]
+  from="https://www.simply-note.com/*"
+  to="https://www.simply-note.de/:splat"
+  force = true
+  status = 301
+
+[[redirects]]
+  from="http://simply-note.com/*"
+  to="https://www.simply-note.de/:splat"
+  force = true
+  status = 301
+
+[[redirects]]
+  from="https://simply-note.com/*"
+  to="https://www.simply-note.de/:splat"
+  force = true
+  status = 301
