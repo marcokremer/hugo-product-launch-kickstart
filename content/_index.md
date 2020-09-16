@@ -32,7 +32,7 @@ Dann freuen wir uns auf Ihre Kontaktaufnahme - wir zeigen Ihnen gerne unseren Pr
 # Prototyp
 
 So funktioniert Simply Note:
-# ![How it works](images/prototype_1.jpg)
+# ![How it works](images/prototype_1.jpg) <>
 
 - Automatisierte Transkription von deutschsprachigen VoIP – Telefonaten
 - Unabhängig von VoIP – Software & Telefonanbieter
