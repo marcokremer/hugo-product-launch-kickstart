@@ -64,6 +64,6 @@ Wir nehmen den Datenschutz sehr ernst und stellen daher sicher, dass wir nichts 
 
 # Newsletter
 
-Bleiben wir in Kontakt. Melden Sie sich hier an für unseren Newsletter. Keine Sorge, wir sind keine Werbefachleute oder quälen Sie mit langweiligen Details. Wir melden uns nur wenn es wirklich spannende Updates und neue Features zu Simply Note gibt - versprochen!
+Bleiben wir in Kontakt. Melden Sie sich hier an für unseren Newsletter. Keine Sorge, wir sind keine Werbefachleute oder quälen Sie mit langweiligen Details. Wir melden uns nur, wenn es wirklich spannende Updates und neue Features zu Simply Note gibt - versprochen!
 
 {{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Ihre Emailadresse" button_label="Registrieren" action="/success/newsletter/">}}
