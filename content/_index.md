@@ -12,7 +12,7 @@ header_button_more:
 
 # Die Zukunft der Gesprächsprotokolle
 
-Simply Note ermöglicht unerreicht schnell neutrale, vollständige und digitale Textprotokolle, die für die beliebige Weiterverarbeitung verwendbar sind, als Nachweis von Beratungen und Abstimmungen dienen oder einfach in die alltägliche Aufgabenbearbeitung integriert werden können. <br> <br>**Unser [Prototyp](#prototype) für Zoom läuft!** <br> <br> Treten Sie mit uns in [Kontakt](#contact-form) und wir zeigen Ihnen, wie Simply Note den Arbeitsalltag von Ihnen und Ihren Mitarbeitern verbessert.
+Simply Note ermöglicht unerreicht schnell neutrale, vollständige und digitale Textprotokolle, die für die beliebige Weiterverarbeitung verwendbar sind, als Nachweis von Beratungen und Abstimmungen dienen oder einfach in die alltägliche Aufgabenbearbeitung integriert werden können. <br> <br>**Unser [Prototyp](#prototyp) für Zoom läuft!** <br> <br> Treten Sie mit uns in [Kontakt](#contact-form) und wir zeigen Ihnen, wie Simply Note den Arbeitsalltag von Ihnen und Ihren Mitarbeitern verbessert.
 
 ---
 
