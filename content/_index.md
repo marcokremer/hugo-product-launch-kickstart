@@ -21,10 +21,10 @@ Wer viel Zeit in Telefonaten oder virtuellen Meetings verbringt, kennt das Dilem
 ---
 
 # Sie wollen...
-- [x] schnelle, vollständige und neutrale Gesprächsdokumentationen?
-- [x] sich und Ihr Team vom aufwändigen Protokollschreiben entlasten? 
-- [x] Transparenz in Ihre Beratung und Auskünfte bringen, als ersten Schritt zur deren Optimierung?
-- [x] Ihre digitalen Unternehmens- bzw. eGovernment Ziele erreichen?
+[x] schnelle, vollständige und neutrale Gesprächsdokumentationen?
+[x] sich und Ihr Team vom aufwändigen Protokollschreiben entlasten? 
+[x] Transparenz in Ihre Beratung und Auskünfte bringen, als ersten Schritt zur deren Optimierung?
+[x] Ihre digitalen Unternehmens- bzw. eGovernment Ziele erreichen?
 
 Dann freuen wir uns auf Ihre Kontaktaufnahme - wir präsentieren Ihnen gerne unseren Prototypen!
 
@@ -49,7 +49,7 @@ Treten Sie mit uns in [Kontakt](#contact-form) und wir zeigen Ihnen, wie Simply 
 ---
 
 # Prototyp {#prototyp}
-![prototype](images/prototype.png)
+![prototype](images/howitworks.png)
 So funktioniert Simply Note:
 - Automatisierte Transkription von deutschsprachigen VoIP – Telefonaten
 - Unabhängig von VoIP – Software & Telefonanbieter
@@ -58,7 +58,7 @@ So funktioniert Simply Note:
 - Überschneidende Dialoge („Durcheinanderreden“) werden robust transkribiert 
 
 Und hier ein Blick auf den Prototypen für Zoom in Aktion:
-![How it looks like](images/howitworks.png)
+![How it looks like](images/rototype.png)
 
 Wollen Sie den Prototypen live sehen? [Kontaktieren](#contact-form) Sie uns!
 
