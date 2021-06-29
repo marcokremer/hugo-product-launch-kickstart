@@ -34,8 +34,8 @@ Dann freuen wir uns auf Ihre Kontaktaufnahme - wir präsentieren Ihnen gerne uns
 
 Simply Note erstellt vollautomatisiert und unerreicht schnell neutrale, vollständige und digitale Telefonprotokolle,
 - die für die beliebige Weiterverarbeitung verwendbar sind, 
-- als Nachweis von Beratungen und Abstimmungen dienen  
-- oder einfach in die alltägliche Aufgabenbearbeitung integriert werden können. 
+- als Nachweis von Beratungen und Abstimmungen dienen oder 
+- einfach in die alltägliche Aufgabenbearbeitung integriert werden können. 
 
 
 Unser [Prototyp](#prototyp) für Zoom läuft! 
@@ -58,7 +58,7 @@ So funktioniert Simply Note:
 - Überschneidende Dialoge („Durcheinanderreden“) werden robust transkribiert 
 
 Und hier ein Blick auf den Prototypen für Zoom in Aktion:
-![How it looks like](images/rototype.png)
+![How it looks like](images/prototype.png)
 
 Wollen Sie den Prototypen live sehen? [Kontaktieren](#contact-form) Sie uns!
 
