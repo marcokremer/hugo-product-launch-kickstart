@@ -8,13 +8,14 @@ header_button_cta:
 header_button_more:
   url: "#die-zukunft-der-gesprächsprotokolle"
   title: "Gesprächsprotokolle digital"
-teaser_image: "images/advantages.png"
+  teaser_image: "images/advantages.png"
+  
 ---
 
 ![Need an asssistant?](images/needanassistant.png)
 
 # Zuhören oder Schreiben? Das Meeting-Dilemma.
-Wer viel Zeit in Telefonaten oder virtuellen Meetings verbringt, kennt das Dilemma sicherlich: aktiv zuhören oder die wichtigsten Punkte notieren. Eigentlich ist beides wichtig, nicht nur wenn ein Kunde Ihre Unterstützung benötigt. Der Kompromiss: *im* Meeting viel zuhören und wenig schreiben und *nach dem* Meeting die Punkte aus dem Gedächtnis vervollständigen. Hoffentlich erinnern Sie sich alles! Wie viele Meetings besuchen Sie eigentlich am Tag?
+Wer viel Zeit in Telefonaten oder virtuellen Meetings verbringt, kennt das Dilemma sicherlich: aktiv zuhören oder die wichtigsten Punkte notieren? Eigentlich ist beides wichtig, nicht nur wenn ein Kunde Ihre Unterstützung benötigt. Der Kompromiss: *im* Meeting viel zuhören und wenig schreiben und *nach dem* Meeting die Punkte aus dem Gedächtnis vervollständigen. Hoffentlich erinnern Sie sich alles! Wie viele Meetings besuchen Sie eigentlich am Tag?
 
 ![Seven per day](images/sevenperday.png)
 
