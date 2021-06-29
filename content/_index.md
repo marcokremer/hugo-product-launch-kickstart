@@ -43,7 +43,7 @@ Simply Note erstellt vollautomatisiert und unerreicht schnell neutrale, vollstä
 Unser [Prototyp](#prototyp) für Zoom läuft! 
 Treten Sie mit uns in [Kontakt](#contact-form) und wir zeigen Ihnen, wie Simply Note den Arbeitsalltag von Ihnen und Ihren Mitarbeitern verbessert.
 
-![Simply Note](images/Simply Note Logo.png)
+![Simply Note](images/SimplyNoteLogo.png)
 
 ---
 
