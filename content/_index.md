@@ -1,36 +1,55 @@
+
 ---
 header_brand: "Simply Note"
-header_tagline_paragraph: "Gesprächsprotokolle auf Knopfdruck - einfach, schnell und sicher. Made in Germany. <br> Wir machen aus digitalen Telefonaten und Videokonferenzen vollautomatisiert Transkriptionen - plattformunabhängig und einzigartig in Deutschland, Österreich und der Schweiz."
+header_tagline_paragraph: "Gesprächsprotokolle auf Knopfdruck - einfach, schnell und sicher. Made in Germany. <br> Wir machen aus digitalen Telefonaten und Videokonferenzen vollautomatisiert Transkriptionen - plattformunabhängig und einzigartig in Deutschland, Österreich, der Schweiz und **NEU** auch in Polen."
 header_button_cta:
   url: "#kontaktformular"
   title: "Kontaktaufnahme"
 header_button_more:
   url: "#die-zukunft-der-gesprächsprotokolle"
   title: "Gesprächsprotokolle digital"
-# teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+teaser_image: "images/advantages.png"
 ---
 
-# Die Zukunft der Gesprächsprotokolle
+![Need an asssistant?](images/needanassistant.png)
 
-Simply Note ermöglicht unerreicht schnell neutrale, vollständige und digitale Textprotokolle, die für die beliebige Weiterverarbeitung verwendbar sind, als Nachweis von Beratungen und Abstimmungen dienen oder einfach in die alltägliche Aufgabenbearbeitung integriert werden können. <br> <br>Unser [Prototyp](#prototyp) für Zoom läuft! <br> <br> Treten Sie mit uns in [Kontakt](#contact-form) und wir zeigen Ihnen, wie Simply Note den Arbeitsalltag von Ihnen und Ihren Mitarbeitern verbessert.
+# Zuhören oder Schreiben? Das Meeting-Dilemma.
+Wer viel Zeit in Telefonaten oder virtuellen Meetings verbringt, kennt das Dilemma sicherlich: aktiv zuhören oder die wichtigsten Punkte notieren. Eigentlich ist beides wichtig, nicht nur wenn ein Kunde Ihre Unterstützung benötigt. Der Kompromiss: *im* Meeting viel zuhören und wenig schreiben und *nach dem* Meeting die Punkte aus dem Gedächtnis vervollständigen. Hoffentlich erinnern Sie sich alles! Wie viele Meetings besuchen Sie eigentlich am Tag?
+
+![Seven per day](images/sevenperday.png)
 
 ---
 
-Sie wollen...
-- schnelle, vollständige und neutrale Gesprächsdokumentationen?
-- Ihre Telefonarbeiter vom aufwändigen Protokollschreiben entlasten? 
-- Transparenz in Ihre Beratung und Auskünfte bringen, als ersten Schritt zur deren Optimierung?
-- Ihre digitalen Unternehmens- bzw. eGovernment Ziele erreichen?
+# Sie wollen...
+[x] schnelle, vollständige und neutrale Gesprächsdokumentationen?
+[x] sich und Ihr Team vom aufwändigen Protokollschreiben entlasten? 
+[x] Transparenz in Ihre Beratung und Auskünfte bringen, als ersten Schritt zur deren Optimierung?
+[x] Ihre digitalen Unternehmens- bzw. eGovernment Ziele erreichen?
 
-Dann freuen wir uns auf Ihre Kontaktaufnahme - wir zeigen Ihnen gerne unseren Prototypen!
+Dann freuen wir uns auf Ihre Kontaktaufnahme - wir präsentieren Ihnen gerne unseren Prototypen!
 
-# Kontaktformular
+---
+
+# Die Zukunft der Gesprächsprotokolle  {#die-zukunft-der-gesprächsprotokolle}
+
+Simply Note erstellt vollautomatisiert und unerreicht schnell neutrale, vollständige und digitale Telefonprotokolle,
+- die für die beliebige Weiterverarbeitung verwendbar sind, 
+- als Nachweis von Beratungen und Abstimmungen dienen oder 
+- einfach in die alltägliche Aufgabenbearbeitung integriert werden können. 
+
+
+Unser [Prototyp](#prototyp) für Zoom läuft! 
+Treten Sie mit uns in [Kontakt](#contact-form) und wir zeigen Ihnen, wie Simply Note den Arbeitsalltag von Ihnen und Ihren Mitarbeitern verbessert.
+
+
+
+# Kontaktformular {#kontaktformular}
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Adresse" placeholder_message="Nachricht" action="/success/contact/" button_label="Abschicken ✉️">}}
 
 ---
 
-# Prototyp
-
+# Prototyp {#prototyp}
+![prototype](images/howitworks.png)
 So funktioniert Simply Note:
 - Automatisierte Transkription von deutschsprachigen VoIP – Telefonaten
 - Unabhängig von VoIP – Software & Telefonanbieter
@@ -39,7 +58,7 @@ So funktioniert Simply Note:
 - Überschneidende Dialoge („Durcheinanderreden“) werden robust transkribiert 
 
 Und hier ein Blick auf den Prototypen für Zoom in Aktion:
-![How it looks like](images/prototype_2.jpg)
+![How it looks like](images/prototype.png)
 
 Wollen Sie den Prototypen live sehen? [Kontaktieren](#contact-form) Sie uns!
 
