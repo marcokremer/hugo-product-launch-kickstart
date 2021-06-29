@@ -37,8 +37,9 @@ Simply Note erstellt vollautomatisiert und unerreicht schnell neutrale, vollstä
 - die für die beliebige Weiterverarbeitung verwendbar sind, 
 - als Nachweis von Beratungen und Abstimmungen dienen  
 - oder einfach in die alltägliche Aufgabenbearbeitung integriert werden können. 
-<br> <br>Unser [Prototyp](#prototyp) für Zoom läuft! 
-<br> <br> Treten Sie mit uns in [Kontakt](#contact-form) und wir zeigen Ihnen, wie Simply Note den Arbeitsalltag von Ihnen und Ihren Mitarbeitern verbessert.
+
+Unser [Prototyp](#prototyp) für Zoom läuft! 
+Treten Sie mit uns in [Kontakt](#contact-form) und wir zeigen Ihnen, wie Simply Note den Arbeitsalltag von Ihnen und Ihren Mitarbeitern verbessert.
 
 
 
