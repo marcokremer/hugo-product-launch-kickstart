@@ -41,7 +41,7 @@ Simply Note erstellt vollautomatisiert und unerreicht schnell neutrale, vollstä
 Unser [Prototyp](#prototyp) für Zoom läuft! 
 Treten Sie mit uns in [Kontakt](#contact-form) und wir zeigen Ihnen, wie Simply Note den Arbeitsalltag von Ihnen und Ihren Mitarbeitern verbessert.
 
-
+---
 
 # Kontaktformular {#kontaktformular}
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Adresse" placeholder_message="Nachricht" action="/success/contact/" button_label="Abschicken ✉️">}}
@@ -50,14 +50,15 @@ Treten Sie mit uns in [Kontakt](#contact-form) und wir zeigen Ihnen, wie Simply 
 
 # Prototyp {#prototyp}
 ![prototype](images/howitworks.png)
-So funktioniert Simply Note:
+
+## So funktioniert Simply Note:
 - Automatisierte Transkription von deutschsprachigen VoIP – Telefonaten
 - Unabhängig von VoIP – Software & Telefonanbieter
 - DSGVO konform durch Service auf DE/EU Servern
 - Einsatz von State-of-the-Art Transkriptionstechnologie 
 - Überschneidende Dialoge („Durcheinanderreden“) werden robust transkribiert 
 
-Und hier ein Blick auf den Prototypen für Zoom in Aktion:
+## Und hier ein Blick auf den Prototypen für Zoom in Aktion:
 ![How it looks like](images/prototype.png)
 
 Wollen Sie den Prototypen live sehen? [Kontaktieren](#contact-form) Sie uns!
