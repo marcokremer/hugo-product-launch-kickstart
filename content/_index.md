@@ -8,8 +8,7 @@ header_button_cta:
 header_button_more:
   url: "#die-zukunft-der-gesprächsprotokolle"
   title: "Gesprächsprotokolle digital"
-  teaser_image: "images/advantages.png"
-  
+  teaser_image: "images/advantages.png"  
 ---
 
 ![Need an asssistant?](images/needanassistant.png)
