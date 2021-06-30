@@ -8,8 +8,10 @@ header_button_cta:
 header_button_more:
   url: "#die-zukunft-der-gesprächsprotokolle"
   title: "Gesprächsprotokolle digital"
-  teaser_image: "images/advantages.png"  
+  teaser_image: ""  
 ---
+![Simply Note ist assoziierter Partner von SPEAKER](images/SpeakerIntro.png)
+Hier geht es zur [Projektwebseite](https://www.speaker.fraunhofer.de/#navi).
 
 ![Need an asssistant?](images/needanassistant.png)
 
