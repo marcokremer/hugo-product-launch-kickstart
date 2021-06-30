@@ -13,6 +13,8 @@ header_button_more:
 ![Simply Note ist assoziierter Partner von SPEAKER](images/SpeakerIntro.png)
 Hier geht es zur [Projektwebseite](https://www.speaker.fraunhofer.de/#navi).
 
+---
+
 ![Need an asssistant?](images/needanassistant.png)
 
 # Zuhören oder Schreiben? Das Meeting-Dilemma.
