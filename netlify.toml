@@ -56,3 +56,8 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
   to="https://www.simply-note.de/:splat"
   force = true
   status = 301
+
+[[redirects]]
+  from = "/.well-known/2210_gx_participant_Materna.json"
+  to = "/2210_gx_participant_Materna.json"
+  status = 200
