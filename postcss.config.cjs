@@ -10,12 +10,27 @@ module.exports = {
     autoprefixer(),
     process.env.HUGO_ENVIRONMENT === 'production'
       ? purgecss({
-          content: ['./hugo_stats.json'],
+          content: [
+            './hugo_stats.json',
+            './themes/hugo-product-launch/hugo_stats.json',
+            './exampleSite/hugo_stats.json'
+          ],
           defaultExtractor: content => {
             const els = JSON.parse(content).htmlElements
             return [...(els.classes || []), ...(els.ids || []), ...(els.tags || [])]
           },
-          safelist: [/^dark/, /^light/, /^bg-/, /^text-/, /dark$/, /light$/, /^button-/]
+          safelist: [
+            /^dark/,
+            /^light/,
+            /^bg-/,
+            /^text-/,
+            /dark$/,
+            /light$/,
+            /^button-/,
+            'prose',
+            'html',
+            'body'
+          ]
         })
       : null
   ].filter(Boolean)
