@@ -61,4 +61,4 @@ ignoreLogs = ['warning-goldmark-raw-html']
   [build.processing]
     [build.processing.css]
       method = "css.PostCSS"
-      options = ["--config", "postcss.config.js"]
+      options = ["--config", "postcss.config.cjs"]

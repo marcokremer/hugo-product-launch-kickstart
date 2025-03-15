@@ -1,9 +1,9 @@
 {
   "private": true,
   "name": "hugo-product-launch",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "description": "A Hugo theme for young start-ups, product launches, and »coming soon«-websites. Includes contact form & newsletter sign up via Netlify.",
-  "main": "postcss.config.js",
+  "main": "postcss.config.cjs",
   "type": "commonjs",
   "scripts": {
     "test": "prettier --check . ",
