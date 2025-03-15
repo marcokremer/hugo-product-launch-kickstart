@@ -1,13 +1,7 @@
 <!-- See https://gohugo.io/hugo-pipes/postcss/ -->
-{{ $themeCss := resources.Get "css/main.css" }}
-{{ if $themeCss }}
-  {{ $customCss := resources.Get "css/main.css" }}
-  {{ if $customCss }}
-    {{ $css := slice $themeCss $customCss | resources.Concat "css/bundle.css" }}
-    {{ $css = $css | css.PostCSS (dict "config" "postcss.config.cjs") }}
-    {{ if hugo.IsProduction }}
-      {{ $css = $css | fingerprint }}
-    {{ end }}
-    <link href="{{ $css.Permalink }}" rel="stylesheet" />
-  {{ end }}
-{{ end }} 
+{{ $css := resources.Get "css/main.css" }}
+{{ $css = $css | css.PostCSS (dict "config" "postcss.config.cjs") }}
+{{ if hugo.IsProduction }}
+  {{ $css = $css | fingerprint }}
+{{ end }}
+<link href="{{ $css.Permalink }}" rel="stylesheet" /> 
