@@ -29,7 +29,8 @@ module.exports = {
             /^button-/,
             'prose',
             'html',
-            'body'
+            'body',
+            'button-secondary'
           ]
         })
       : null
