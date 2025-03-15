@@ -1,0 +1,23 @@
+[hugoVersion]
+extended = true
+min = "0.112.0"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.112.0"
+
+[build]
+  writeStats = true
+
+[[module.mounts]]
+source = "assets"
+target = "assets"
+
+[[module.mounts]]
+source = "static"
+target = "static"
+
+[[module.mounts]]
+source = "node_modules"
+target = "assets/node_modules" 

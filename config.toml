@@ -6,7 +6,8 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
 defaultContentLanguage = "en"
 
 # The name of this wonderful theme ;-).
-theme = "hugo-product-launch"
+theme = ["hugo-product-launch"]
+themesDir = "themes"
 
 # The "title" of your website
 title = "Simply Note"
@@ -17,6 +18,7 @@ title = "Simply Note"
     [markup.goldmark]
         [markup.goldmark.renderer]
             hardWraps = true
+            unsafe = true
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -51,3 +53,12 @@ title = "Simply Note"
 
     [params.meta]
         keywords = "Simply, Note, transcription, automatic, VoIP, fast, easy, platform independent, Transkription, automatisch, Plattformunabhängig"
+
+# Suppress warnings
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[build]
+  [build.processing]
+    [build.processing.css]
+      method = "css.PostCSS"
+      options = ["--config", "postcss.config.js"]

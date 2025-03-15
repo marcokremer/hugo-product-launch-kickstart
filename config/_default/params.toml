@@ -1,0 +1,14 @@
+[build]
+  useResourceCacheWhen = "always"
+
+[css]
+  bundle = true
+  minify = true
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^NODE_'] 
