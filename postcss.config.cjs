@@ -1,13 +1,13 @@
-import postcssImport from 'postcss-import'
-import tailwindcss from 'tailwindcss'
-import autoprefixer from 'autoprefixer'
-import postcssPurgecss from '@fullhuman/postcss-purgecss'
+const postcssImport = require('postcss-import')
+const tailwindcss = require('tailwindcss')
+const autoprefixer = require('autoprefixer')
+const postcssPurgecss = require('@fullhuman/postcss-purgecss')
 
 const removeNewlines = (text) => {
   return text.replace(/(\r\n|\n|\r)/gm, '')
 }
 
-export default {
+module.exports = {
   plugins: [
     postcssImport(),
     tailwindcss(),

@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "description": "A Hugo theme for young start-ups, product launches, and »coming soon«-websites. Includes contact form & newsletter sign up via Netlify.",
   "main": "postcss.config.js",
-  "type": "module",
   "scripts": {
     "test": "prettier --check . ",
     "format": "prettier --write . "
