@@ -23,10 +23,10 @@ module.exports = {
             return [...classes, ...ids, ...tags]
           },
           safelist: {
-            standard: [/^dark:/],
-            deep: [/dark:/],
+            standard: [/^dark/, /^light/, /^bg-/, /^text-/],
+            deep: [/dark$/, /light$/, /^bg-/, /^text-/],
           },
         })
       : null,
-  ],
+  ].filter(Boolean),
 } 
