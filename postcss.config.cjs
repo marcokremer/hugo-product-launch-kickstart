@@ -5,24 +5,18 @@ const purgecss = require('@fullhuman/postcss-purgecss')
 
 module.exports = {
   plugins: [
-    postcssImport(),
-    tailwindcss(),
-    autoprefixer(),
+    postcssImport,
+    tailwindcss,
+    autoprefixer,
     process.env.HUGO_ENVIRONMENT === 'production'
       ? purgecss({
           content: ['./hugo_stats.json'],
-          defaultExtractor: (content) => {
+          defaultExtractor: content => {
             const els = JSON.parse(content).htmlElements
-            const classes = els.classes || []
-            const ids = els.ids || []
-            const tags = els.tags || []
-            return [...classes, ...ids, ...tags]
+            return [...(els.classes || []), ...(els.ids || []), ...(els.tags || [])]
           },
-          safelist: {
-            standard: [/^dark/, /^light/, /^bg-/, /^text-/],
-            deep: [/dark$/, /light$/, /^bg-/, /^text-/],
-          },
+          safelist: [/^dark/, /^light/, /^bg-/, /^text-/, /dark$/, /light$/]
         })
-      : null,
-  ].filter(Boolean),
+      : null
+  ].filter(Boolean)
 } 
