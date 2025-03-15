@@ -1,19 +1,20 @@
-const autoprefixer = require('autoprefixer')
-const postcssImport = require('postcss-import')
-const tailwindcss = require('tailwindcss')
+import autoprefixer from 'autoprefixer'
+import postcssImport from 'postcss-import'
+import tailwindcss from 'tailwindcss'
+import purgecss from '@fullhuman/postcss-purgecss'
 
 const removeNewlines = (text) => {
   return text.replace(/(\r\n|\n|\r)/gm, '')
 }
 
-module.exports = {
+export default {
   plugins: [
     postcssImport,
     tailwindcss,
     autoprefixer,
     ...(process.env.HUGO_ENVIRONMENT === 'production'
       ? [
-          require('@fullhuman/postcss-purgecss')({
+          purgecss({
             content: ['./hugo_stats.json'],
             defaultExtractor: (content) => {
               const els = JSON.parse(content).htmlElements
