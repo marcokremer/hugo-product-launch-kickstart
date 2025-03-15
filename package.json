@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "A Hugo theme for young start-ups, product launches, and »coming soon«-websites. Includes contact form & newsletter sign up via Netlify.",
   "main": "postcss.config.js",
+  "type": "commonjs",
   "scripts": {
     "test": "prettier --check . ",
     "format": "prettier --write . "
@@ -22,14 +23,12 @@
     "url": "https://github.com/janraasch/hugo-product-launch/issues"
   },
   "homepage": "https://github.com/janraasch/hugo-product-launch#readme",
-  "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^7.0.2",
-    "@tailwindcss/typography": "^0.5.10",
-    "autoprefixer": "^10.4.17",
-    "postcss-cli": "^11.0.0",
-    "postcss-import": "^16.0.1",
-    "prettier": "^3.2.5",
-    "prettier-plugin-go-template": "^0.0.15",
-    "tailwindcss": "^3.4.1"
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "postcss-cli": "^10.1.0",
+    "postcss-import": "^15.1.0",
+    "tailwindcss": "^3.2.7"
   }
 }
