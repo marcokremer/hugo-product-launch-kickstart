@@ -1,5 +1,7 @@
 <!-- See https://gohugo.io/hugo-pipes/postcss/ -->
-{{ $css := resources.Get "css/main.css" }}
+{{ $themeCss := resources.Get "themes/hugo-product-launch/assets/css/main.css" }}
+{{ $customCss := resources.Get "css/main.css" }}
+{{ $css := slice $themeCss $customCss | resources.Concat "css/bundle.css" }}
 {{ $css = $css | css.PostCSS (dict "config" "postcss.config.cjs") }}
 {{ if hugo.IsProduction }}
   {{ $css = $css | fingerprint }}
